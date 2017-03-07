@@ -39,6 +39,10 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 - [Asymptotic Analysis Slides][asymptotic-analysis]
 - [Discussion Attendance/Feedback][disc7-attendance]
 
+## Week 8
+- [More Asymptotic Analysis Slides][asymptotic-analysis-2]
+- [Discussion Attendance/Feedback][disc8-attendance]
+
 [survey]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfV2NCmBuvC9VmNfzEQA-Ct-a-f0ZKemdyto7dy6SrcvTamDQ/viewform
 
 [lists]: https://docs.google.com/a/berkeley.edu/presentation/d/19LYmDUeU9UbLqNZotIQWL81flsJd9ku3PZsFr7-zcKA/edit?usp=sharing
@@ -46,11 +50,13 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 [linked-lists]: https://docs.google.com/a/berkeley.edu/presentation/d/1-OEdsVpyGT1GLvfQkA5Csa7qGxIMjLrSXyaNeNvi8sc/edit?usp=sharing
 [adt]: https://docs.google.com/a/berkeley.edu/presentation/d/1aRa8SiQgIp5MM5pSwF3_-8I-nc1L_J2MKtbcgzQdEnw/edit?usp=sharing
 [asymptotic-analysis]: https://docs.google.com/a/berkeley.edu/presentation/d/1bmcay-dSXrHtI40oGPBnkVC5NlsHT5oygoesgTZD6OY/edit?usp=sharing
+[asymptotic-analysis-2]: https://docs.google.com/a/berkeley.edu/presentation/d/1A-HbmWLcKt4m4xqDIuqb31qSjrtSojUIsSvZL9V0aIM/edit?usp=sharing
 
 [disc3-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScBxYpLqcgFR5q2xFOzx_d7-0uxZ9OhRxcDnQ2EqMS8kMcukg/viewform
 [disc4-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdM7EV3lBP06MZG-bJHkNxVSRErMV6_EzgPxjyK7wCtWIgCiA/viewform
 [disc6-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSf2Ht7Zgd526PdmMstWc-HY1uyi1rZY4t5ZjOR2-lpAkhmkKg/viewform
 [disc7-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfyqhzKwG_2S76HHFLsO0YbyOjBOrpM47cNLEImAUDALTfU8A/viewform
+[disc8-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfrbfTVCDWJtPfajGL9TvMPAwyDCRJuCXv-E5Mw3-_iLdMYrg/viewform
 
 [lab6-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfwaBM5mfl_3fH-YEwy6_S52v6IdOTeRjQx6Ud_i5tkpwSCqA/viewform
 

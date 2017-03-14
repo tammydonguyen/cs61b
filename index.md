@@ -43,6 +43,9 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 - [More Asymptotic Analysis Slides][asymptotic-analysis-2]
 - [Discussion Attendance/Feedback][disc8-attendance]
 
+## Week 9
+- [Discussion Attendance/Feedback][disc9-attendance]
+
 [survey]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfV2NCmBuvC9VmNfzEQA-Ct-a-f0ZKemdyto7dy6SrcvTamDQ/viewform
 
 [lists]: https://docs.google.com/a/berkeley.edu/presentation/d/19LYmDUeU9UbLqNZotIQWL81flsJd9ku3PZsFr7-zcKA/edit?usp=sharing
@@ -57,6 +60,7 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 [disc6-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSf2Ht7Zgd526PdmMstWc-HY1uyi1rZY4t5ZjOR2-lpAkhmkKg/viewform
 [disc7-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfyqhzKwG_2S76HHFLsO0YbyOjBOrpM47cNLEImAUDALTfU8A/viewform
 [disc8-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfrbfTVCDWJtPfajGL9TvMPAwyDCRJuCXv-E5Mw3-_iLdMYrg/viewform
+[disc9-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfJMAHF-X6fL2f9xYikz5kgo9GjX6zUTM89fmym_p7n-UV4uw/viewform?usp=sf_link
 
 [lab6-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfwaBM5mfl_3fH-YEwy6_S52v6IdOTeRjQx6Ud_i5tkpwSCqA/viewform
 

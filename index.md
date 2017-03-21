@@ -46,6 +46,9 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 ## Week 9
 - [Discussion Attendance/Feedback][disc9-attendance]
 
+## Week 10
+- [Discussion Attendance/Feedback][disc10-attendance]
+
 [survey]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfV2NCmBuvC9VmNfzEQA-Ct-a-f0ZKemdyto7dy6SrcvTamDQ/viewform
 
 [lists]: https://docs.google.com/a/berkeley.edu/presentation/d/19LYmDUeU9UbLqNZotIQWL81flsJd9ku3PZsFr7-zcKA/edit?usp=sharing
@@ -61,6 +64,7 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 [disc7-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfyqhzKwG_2S76HHFLsO0YbyOjBOrpM47cNLEImAUDALTfU8A/viewform
 [disc8-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfrbfTVCDWJtPfajGL9TvMPAwyDCRJuCXv-E5Mw3-_iLdMYrg/viewform
 [disc9-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfJMAHF-X6fL2f9xYikz5kgo9GjX6zUTM89fmym_p7n-UV4uw/viewform?usp=sf_link
+[disc10-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdVYC92S1HCfMVFiDETxCd8tqPr5NYuGBtsTWRGvj4-o9yw-A/viewform?usp=sf_link
 
 [lab6-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfwaBM5mfl_3fH-YEwy6_S52v6IdOTeRjQx6Ud_i5tkpwSCqA/viewform
 

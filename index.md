@@ -47,6 +47,7 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 - [Discussion Attendance/Feedback][disc9-attendance]
 
 ## Week 10
+- [Heaps and Graphs Slides][heaps-graphs]
 - [Discussion Attendance/Feedback][disc10-attendance]
 
 [survey]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfV2NCmBuvC9VmNfzEQA-Ct-a-f0ZKemdyto7dy6SrcvTamDQ/viewform
@@ -57,6 +58,7 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 [adt]: https://docs.google.com/a/berkeley.edu/presentation/d/1aRa8SiQgIp5MM5pSwF3_-8I-nc1L_J2MKtbcgzQdEnw/edit?usp=sharing
 [asymptotic-analysis]: https://docs.google.com/a/berkeley.edu/presentation/d/1bmcay-dSXrHtI40oGPBnkVC5NlsHT5oygoesgTZD6OY/edit?usp=sharing
 [asymptotic-analysis-2]: https://docs.google.com/a/berkeley.edu/presentation/d/1A-HbmWLcKt4m4xqDIuqb31qSjrtSojUIsSvZL9V0aIM/edit?usp=sharing
+[heaps-graphs]: https://docs.google.com/a/berkeley.edu/presentation/d/1f7_VT3MMRguJlpLBwLt5Hqf73T_zZrVVpexuPC3Pcig/edit?usp=sharing
 
 [disc3-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScBxYpLqcgFR5q2xFOzx_d7-0uxZ9OhRxcDnQ2EqMS8kMcukg/viewform
 [disc4-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdM7EV3lBP06MZG-bJHkNxVSRErMV6_EzgPxjyK7wCtWIgCiA/viewform

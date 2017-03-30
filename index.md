@@ -12,12 +12,14 @@ This is the website for [Tammy](http://tmmydngyn.com)'s Spring 2017
 - **Lab:** Th 11:00 AM - 1:00 PM @ 273 Soda 
 - **Office Hours:** Tu 12:00 PM - 1:00 PM @ 109 Morgan 
 
-You can contact me through email (tammynguyen@berkeley.edu) or leave feedback through this [anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSf3h9yaC0BkqiZcQY_tuAWnY4sTeFZ1AuJt0y_UcPVIsz-3wg/viewform).
+You can contact me through email (tammynguyen@berkeley.edu) or leave feedback through this [anonymous form][anon-feedback].
+
+Click [here][spotify] for my Spotify profile, which includes playlists that I play during class. 
 
 - - -
 
 ## Week 2
-- [Learning survey][survey]
+- [Learning survey][learning-survey]
 
 ## Week 3
 - [Lists Slides][lists]
@@ -50,7 +52,10 @@ You can contact me through email (tammynguyen@berkeley.edu) or leave feedback th
 - [Heaps and Graphs Slides][heaps-graphs]
 - [Discussion Attendance/Feedback][disc10-attendance]
 
-[survey]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfV2NCmBuvC9VmNfzEQA-Ct-a-f0ZKemdyto7dy6SrcvTamDQ/viewform
+[spotify]: https://play.spotify.com/user/tmmydngyn
+
+[anon-feedback]: https://goo.gl/forms/jdh0sAyOIID2i0DN2
+[learning-survey]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfV2NCmBuvC9VmNfzEQA-Ct-a-f0ZKemdyto7dy6SrcvTamDQ/viewform
 
 [lists]: https://docs.google.com/a/berkeley.edu/presentation/d/19LYmDUeU9UbLqNZotIQWL81flsJd9ku3PZsFr7-zcKA/edit?usp=sharing
 [inheritance]: https://docs.google.com/a/berkeley.edu/presentation/d/1rfq3dk6jauJere2i7q5x1g_htplXjQFMSp-2t9Uzjkk/edit?usp=sharing

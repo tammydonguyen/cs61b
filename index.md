@@ -52,6 +52,10 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 - [Heaps and Graphs Slides][heaps-graphs]
 - [Discussion Attendance/Feedback][disc10-attendance]
 
+## Week 11
+- [Graphs Slides][graphs]
+- [Discussion Attendance/Feedback][disc11-attendance]
+
 [spotify]: https://play.spotify.com/user/tmmydngyn
 
 [anon-feedback]: https://goo.gl/forms/jdh0sAyOIID2i0DN2
@@ -64,6 +68,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [asymptotic-analysis]: https://docs.google.com/a/berkeley.edu/presentation/d/1bmcay-dSXrHtI40oGPBnkVC5NlsHT5oygoesgTZD6OY/edit?usp=sharing
 [asymptotic-analysis-2]: https://docs.google.com/a/berkeley.edu/presentation/d/1A-HbmWLcKt4m4xqDIuqb31qSjrtSojUIsSvZL9V0aIM/edit?usp=sharing
 [heaps-graphs]: https://docs.google.com/a/berkeley.edu/presentation/d/1f7_VT3MMRguJlpLBwLt5Hqf73T_zZrVVpexuPC3Pcig/edit?usp=sharing
+[graphs]: https://docs.google.com/a/berkeley.edu/presentation/d/1xFkfUf-rmwmOs02YJ-WN1qXoVdJwNarvNzwhsonh2c0/edit?usp=sharing
 
 [disc3-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScBxYpLqcgFR5q2xFOzx_d7-0uxZ9OhRxcDnQ2EqMS8kMcukg/viewform
 [disc4-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdM7EV3lBP06MZG-bJHkNxVSRErMV6_EzgPxjyK7wCtWIgCiA/viewform
@@ -72,6 +77,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [disc8-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfrbfTVCDWJtPfajGL9TvMPAwyDCRJuCXv-E5Mw3-_iLdMYrg/viewform
 [disc9-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfJMAHF-X6fL2f9xYikz5kgo9GjX6zUTM89fmym_p7n-UV4uw/viewform?usp=sf_link
 [disc10-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdVYC92S1HCfMVFiDETxCd8tqPr5NYuGBtsTWRGvj4-o9yw-A/viewform?usp=sf_link
+[disc11-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSeC2_TT8OgnKWmJLmaY6-bkmYXnqyKnA60-z-wnAl-gkif0fw/viewform?usp=sf_link
 
 [lab6-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfwaBM5mfl_3fH-YEwy6_S52v6IdOTeRjQx6Ud_i5tkpwSCqA/viewform
 

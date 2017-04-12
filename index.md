@@ -58,6 +58,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 - [Graphs Midterm Review Slides][graphs-review]
 
 ## Week 12
+- [Graphs and Sorting Slides][graphs-sorting]
 - [Discussion Attendance/Feedback][disc12-attendance]
 
 [spotify]: https://play.spotify.com/user/tmmydngyn
@@ -74,6 +75,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [heaps-graphs]: https://docs.google.com/a/berkeley.edu/presentation/d/1f7_VT3MMRguJlpLBwLt5Hqf73T_zZrVVpexuPC3Pcig/edit?usp=sharing
 [graphs]: https://docs.google.com/a/berkeley.edu/presentation/d/1xFkfUf-rmwmOs02YJ-WN1qXoVdJwNarvNzwhsonh2c0/edit?usp=sharing
 [graphs-review]: https://docs.google.com/a/berkeley.edu/presentation/d/1G45WOhxFsEKNCS7MrX2VDR86FCNXJf222t7u3yc1dZo/edit?usp=sharing
+[graphs-sorting]: https://docs.google.com/a/berkeley.edu/presentation/d/13RnWg19bCkjvK0EEtAHbdniQbo-kV1386nsn6fOHVZE/edit?usp=sharing
 
 [disc3-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScBxYpLqcgFR5q2xFOzx_d7-0uxZ9OhRxcDnQ2EqMS8kMcukg/viewform
 [disc4-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdM7EV3lBP06MZG-bJHkNxVSRErMV6_EzgPxjyK7wCtWIgCiA/viewform

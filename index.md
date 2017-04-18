@@ -62,6 +62,10 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 - [Discussion Attendance/Feedback][disc12-attendance]
 - [Mergesort and Quicksort Slides][merge-quick]
 
+## Week 13
+- [More Sorting Slides][more-sorting]
+- [Discussion Attendance/Feedback][disc13-attendance]
+
 [spotify]: https://play.spotify.com/user/tmmydngyn
 
 [anon-feedback]: https://goo.gl/forms/jdh0sAyOIID2i0DN2
@@ -77,6 +81,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [graphs]: https://docs.google.com/a/berkeley.edu/presentation/d/1xFkfUf-rmwmOs02YJ-WN1qXoVdJwNarvNzwhsonh2c0/edit?usp=sharing
 [graphs-review]: https://docs.google.com/a/berkeley.edu/presentation/d/1G45WOhxFsEKNCS7MrX2VDR86FCNXJf222t7u3yc1dZo/edit?usp=sharing
 [graphs-sorting]: https://docs.google.com/a/berkeley.edu/presentation/d/13RnWg19bCkjvK0EEtAHbdniQbo-kV1386nsn6fOHVZE/edit?usp=sharing
+[more-sorting]: https://docs.google.com/a/berkeley.edu/presentation/d/1UPoIHFgM7G8XlV7XaHaYnPOU-iVv3GWDkFVTSyFqSO0/edit?usp=sharing
 
 [merge-quick]: https://docs.google.com/a/berkeley.edu/presentation/d/13H96mr6YaSHPCnnYfAuW0gKW8AajzhiBi0-9uNYj9Bo/edit?usp=sharing
 
@@ -89,6 +94,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [disc10-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSdVYC92S1HCfMVFiDETxCd8tqPr5NYuGBtsTWRGvj4-o9yw-A/viewform?usp=sf_link
 [disc11-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSeC2_TT8OgnKWmJLmaY6-bkmYXnqyKnA60-z-wnAl-gkif0fw/viewform?usp=sf_link
 [disc12-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfYTaeS8bbOQnA3k_q_hsXaNJ63YVtmx_pOo-s5txVvGNaOCA/viewform?usp=sf_link
+[disc13-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSeQ6xouWZ7t9PoQ7nJBCt0kYh595cuPIqOM3oMFSq57gl2VRg/viewform?usp=sf_link
 
 [lab6-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfwaBM5mfl_3fH-YEwy6_S52v6IdOTeRjQx6Ud_i5tkpwSCqA/viewform
 

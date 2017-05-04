@@ -70,6 +70,9 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 - [Conclusion Slides][conclusion]
 - [Discussion Attendance/Feedback][disc14-attendance]
 
+## Dead Week
+- [Final Review Slides][final]
+
 [spotify]: https://play.spotify.com/user/tmmydngyn
 
 [anon-feedback]: https://goo.gl/forms/jdh0sAyOIID2i0DN2
@@ -87,6 +90,7 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [graphs-sorting]: https://docs.google.com/a/berkeley.edu/presentation/d/13RnWg19bCkjvK0EEtAHbdniQbo-kV1386nsn6fOHVZE/edit?usp=sharing
 [more-sorting]: https://docs.google.com/a/berkeley.edu/presentation/d/1UPoIHFgM7G8XlV7XaHaYnPOU-iVv3GWDkFVTSyFqSO0/edit?usp=sharing
 [conclusion]: https://docs.google.com/a/berkeley.edu/presentation/d/1UDYggmgBkXkYDkVIdohB0AO80NbqF9DanY5gFRX49do/edit?usp=sharing
+[final]: https://docs.google.com/a/berkeley.edu/presentation/d/1g8qZyQlVVFUHpQo1SO8mxQa_9fTeC4doouJKkysvndw/edit?usp=sharing
 
 [merge-quick]: https://docs.google.com/a/berkeley.edu/presentation/d/13H96mr6YaSHPCnnYfAuW0gKW8AajzhiBi0-9uNYj9Bo/edit?usp=sharing
 

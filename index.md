@@ -5,16 +5,18 @@ layout: default
 
 # {{site.title}}
 
-This is the website for [Tammy](http://tmmydngyn.com)'s Spring 2017
-[CS 61B](http://datastructur.es) section.  
+This is the website for [Tammy][my-website]'s [Spring 2017
+CS 61B][course-website] section.  
 
 - **Discussion:** Tu 11:00 AM - 12:00 PM @ 229 Dwinelle 
 - **Lab:** Th 11:00 AM - 1:00 PM @ 273 Soda 
 - **Office Hours:** Tu 12:00 PM - 1:00 PM @ 109 Morgan 
 
-You can contact me through email (tammynguyen@berkeley.edu) or leave feedback through this [anonymous form][anon-feedback].
+You can contact me through email (tammynguyen (at) berkeley.edu) or leave
+feedback through this [anonymous form][anon-feedback].
 
-Click [here][spotify] for my Spotify profile, which includes playlists that I play during class. 
+Click [here][spotify] for my Spotify profile, which includes playlists that I
+play during class. 
 
 - - -
 
@@ -73,7 +75,16 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 ## Dead Week
 - [Final Review Slides][final]
 
+- - - 
+<small>
+  © 2017 [Tammy Nguyen][my-website] · [Hagura Theme][theme] for [Jekyll][jekyll]
+</small> <br/><br/>
+
+[my-website]: /
+[course-website]: https://datastructur.es/sp17/
 [spotify]: https://play.spotify.com/user/tmmydngyn
+[theme]: https://github.com/sharu725/hagura
+[jekyll]: https://jekyllrb.com/
 
 [anon-feedback]: https://goo.gl/forms/jdh0sAyOIID2i0DN2
 [learning-survey]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfV2NCmBuvC9VmNfzEQA-Ct-a-f0ZKemdyto7dy6SrcvTamDQ/viewform
@@ -107,6 +118,3 @@ Click [here][spotify] for my Spotify profile, which includes playlists that I pl
 [disc14-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfl18o-sWxOvjc0idVGajxA9ztuURcGkKbONcIzmZd5HgSITg/viewform?usp=sf_link
 
 [lab6-attendance]: https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSfwaBM5mfl_3fH-YEwy6_S52v6IdOTeRjQx6Ud_i5tkpwSCqA/viewform
-
-- - - 
-<small> © 2017 [Tammy Nguyen](http://tmmydngyn.com) · [Hagura Theme](https://github.com/sharu725/hagura) for [Jekyll](https://jekyllrb.com/) </small> <br/><br/>
